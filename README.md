@@ -1,2 +1,3 @@
 # board-CPP
-movable object, lowercase only, for now
+navegador de matriz
+Finalizado una vez llegada a la meta
